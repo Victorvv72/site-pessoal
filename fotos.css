@@ -1,0 +1,26 @@
+* {
+	margin: 0px;
+	padding: 0px;
+    margin: 0;
+    padding: 0;
+}
+
+#borda {
+    border-top: 8px solid #AC65F4;
+    border-left: 8px solid #AC65F4;
+    border-right: 8px solid #517FDD;
+    border-bottom: 8px solid #517FDD;
+}
+
+#ft1  {float: left;
+    margin-left: 38px;
+    margin-top: 8px;
+}
+
+#insta {
+    border: 3px solid white;
+    float: right;
+    margin-top: 189px;
+    margin-right: -37px;
+
+}

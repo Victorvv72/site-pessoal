@@ -1,0 +1,57 @@
+#per {float: left;
+    width:250px ;
+    height: 220px;
+    margin-top: 20px;
+    padding-left:10px;
+    font-size: 18px;;
+}
+
+#img {float: none;
+    margin-left: 10px;
+    border-top: 8px solid #AC65F4;
+    border-left: 8px solid #AC65F4;
+    border-right: 8px solid #517FDD;
+    border-bottom: 8px solid #517FDD;
+}
+
+#bio h1{font-size: 45px;}
+
+#homem{
+    float: right;
+    margin-right: 57px;
+    margin-top: 20px;
+
+}
+
+#bike {
+    float: left;
+    margin-top: 20px;
+    margin-left: 47px;
+}
+
+#jogos {
+    float: left;
+    margin-left: 70px;
+    margin-top: 5px;
+}
+
+#fml {float: right;
+    margin-top: -20px;
+}
+
+#jiu {float: right;
+    margin-top: -30px;}
+
+#gabi {margin-right: -80px;
+    float: right;
+    margin-top: -30px;
+} 
+
+#fotos {float: right;
+    background-color: white;
+    color: black;
+    margin-right: 357px;
+    margin-top: -40px;
+
+
+}
